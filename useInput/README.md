@@ -1,7 +1,7 @@
 # Usage
 
 ```js
-import useInput from "@nooks/use-input"
+import useInput from "@rooks/use-input"
 
 const App = () => {
   const validator = value => !value.includes("@");

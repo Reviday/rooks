@@ -1,7 +1,7 @@
 # Usage
 
 ```js
-import useBeforeLeave from "@nooks/use-beforeleave"
+import useBeforeLeave from "@rooks/use-beforeleave"
 
 const App = () => {
   const begForLife = () => console.log("Pls dont leave");

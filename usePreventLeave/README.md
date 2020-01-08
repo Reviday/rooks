@@ -1,7 +1,7 @@
 # Usage
 
 ```js
-import usePreventLeave from "@nooks/use-preventleave"
+import usePreventLeave from "@rooks/use-preventleave"
 
 const App = () => {
   const { enablePreve, disablePreve } = usePreventLeave();
