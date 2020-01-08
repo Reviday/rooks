@@ -1,7 +1,4 @@
-import React, { useState } from "react";
-import "./styles.css";
-
-const useInput = (initialValue, validator) => {
+export const useInput = (initialValue, validator) => {
   const [value, setValue] = useState(initialValue);
   const onChange = event => {
     const {
